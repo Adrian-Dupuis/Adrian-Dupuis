@@ -4,7 +4,7 @@
 
 👀 I’m passionate about Software Engineering, Artificial Intelligence, Deep Learning, and Machine Learning. I am also equally passionate about Genneral Engineering, Energy Engineering, Chemical Engineering, Biological/Biochemical Engineering, Biochemistry/Biophysics, and Healthcare.  
 
-🌱 I’m a big believer in Lifelong Learning and am constantly following one or more MOOCs. I have been a Teaching Assistant for a course in Downstream Processing of Biomolecules and throughly enjoyed the experience; I believe one of the best ways to learn a subject is to be able to teach it to someone else. 
+🌱 I’m a big believer in Lifelong Learning and am constantly following one or more MOOCs. I was a Teaching Assistant for a course in Downstream Processing of Biomolecules and throughly enjoyed the experience; I believe one of the best ways to learn a subject is to be able to teach it to someone else! 
 
 🎓 __Education:__ 
 - Specialized M.Sc. [Data Sciences](https://www.centralesupelec.fr/fr/master-data-sciences-business-analytics-dsba?tab=majors) & [Business Analytics](https://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/majors/) @ [ESSEC Business School](https://www.essec.edu/en/) & [CentraleSupélec](https://www.centralesupelec.fr/en) | [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)
