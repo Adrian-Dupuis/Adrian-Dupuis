@@ -2,11 +2,11 @@
 
 👋 Hi, I’m @Adrian-Dupuis! I'm an American-French Engineer, originally from the San Francisco Bay Area and currently living in Paris, France.  
 
-👀 I’m passionate about Software Engineering, Artificial Intelligence, Deep Learning, and Machine Learning. I am also equally passionate about Genneral Engineering, Energy Engineering, Chemical Engineering, Biological/Biochemical Engineering, Biochemistry/Biophysics, and Healthcare.  
+👀 I’m passionate about Software Engineering, Data Science (i.e. Artificial Intelligence, Machine Learning, Deep Learning, etc.), and bring value to business. I am also equally passionate about Genneral Engineering, Energy Engineering, Chemical Engineering, Biological/Biochemical Engineering, Biochemistry/Biophysics, and Healthcare.  
 
-🌱 I’m a big believer in Lifelong Learning and am constantly following one or more MOOCs. I was a Teaching Assistant for a course in Downstream Processing of Biomolecules at Oregon State University and throughly enjoyed the experience; I believe one of the best ways to learn a subject is to be able to teach it to someone else! 
+🌱 I’m a big believer in Lifelong Learning and am always following one or more MOOCs. I was a Teaching Assistant for a course in Downstream Processing of Biomolecules at Oregon State University and throughly enjoyed the experience; I believe one of the best ways to learn a subject is to be able to teach it to someone else! 
 
-🎓 __Education:__ 
+🎓 **Education:** 
 - Specialized M.Sc. [Data Sciences](https://www.centralesupelec.fr/fr/master-data-sciences-business-analytics-dsba?tab=majors) & [Business Analytics](https://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/majors/) @ [ESSEC Business School](https://www.essec.edu/en/) & [CentraleSupélec](https://www.centralesupelec.fr/en) | [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)
 - M.Sc.Eng ("Diplôme d'Ingénieur") [Energy, Chemical & Biological Engineering](https://www.chimieparistech.psl.eu/en/programs/engineering-cycle/) @ [Chimie ParisTech](https://psl.eu/en/university/schools/universite-psl/ecole-nationale-superieure-de-chimie-de-paris-psl) | [PSL Research University](https://psl.eu/en) 
 - Exchange semester (M1 specialization) [Physical Chemistry & Biotechnology](https://www.espci.psl.eu/en/educational-programs/the-espci-ingenieur-degree/) @ [ESPCI Paris](https://psl.eu/en/university/schools/universite-psl/espci-paris-psl) | [PSL Research University](https://psl.eu/en) 
