@@ -13,5 +13,5 @@
 - Double (2) B.Sc. [Chemical Engineering](https://cbee.oregonstate.edu/che-undergraduate-program) + [Biochemistry & Biophysics](https://biochem.oregonstate.edu/content/undergraduate) @ [Oregon State University](https://oregonstate.edu/)
 
 <div>
-<span style="line-height:30px;">📫 The best way to reach me is through: <a href="https://www.linkedin.com/in/adrian-dupuis/"><img style="line-height:30px; alt="Adrian Dupuis' LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png"/></a></span>
+<span style="line-height:30px;">📫 The best way to reach me is through: <a href="https://www.linkedin.com/in/adrian-dupuis/"><img style="line-height:20px; alt="Adrian Dupuis' LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png"/></a></span>
 </div>
